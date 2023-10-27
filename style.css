@@ -97,13 +97,13 @@ About
 }
 
 /*-------------------------------------------
-Manufacturer
+Animal
 -------------------------------------------*/
-#manufacturer ul {
+#animal ul {
   display: flex;
   justify-content: space-between;
 }
-#manufacturer li {
+#animal li {
   width: 32%;
 }
 
@@ -139,12 +139,12 @@ SP
   }
 
   /*-------------------------------------------
-  Manufacturer
+  Animal
   -------------------------------------------*/
-  #manufacturer ul {
+  #animal ul {
     flex-direction: column;
   }
-  #manufacturer li {
+  #animal li {
     width: 100%;
     margin-bottom: 30px;
   }
